@@ -1,0 +1,3 @@
+C:/Users/chissu/Downloads/prListas.2 (fn)/prListas.2/prListas.2/prListas/prListas/cmake-build-debug/CMakeFiles/prListas.dir
+C:/Users/chissu/Downloads/prListas.2 (fn)/prListas.2/prListas.2/prListas/prListas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chissu/Downloads/prListas.2 (fn)/prListas.2/prListas.2/prListas/prListas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

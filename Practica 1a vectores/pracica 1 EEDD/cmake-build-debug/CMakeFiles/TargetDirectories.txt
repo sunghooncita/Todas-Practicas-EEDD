@@ -1,0 +1,3 @@
+C:/Users/chissu/OneDrive/Escritorio/pracica 1 EEDD/cmake-build-debug/CMakeFiles/pracica_1_EEDD.dir
+C:/Users/chissu/OneDrive/Escritorio/pracica 1 EEDD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chissu/OneDrive/Escritorio/pracica 1 EEDD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
